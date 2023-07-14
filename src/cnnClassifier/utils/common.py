@@ -10,5 +10,3 @@ from pathlib import Path
 from typing import Any
 import base64
 
-
-
